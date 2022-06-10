@@ -1,3 +1,2 @@
 How to be up to date in git
-git add filename<>
-git commit -m your
+["git pull"]
